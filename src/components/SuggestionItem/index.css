@@ -1,0 +1,17 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+}
+p {
+  color: #475569;
+  font-family: 'Roboto';
+}
+.arrow {
+  width: 30px;
+  height: 30px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
